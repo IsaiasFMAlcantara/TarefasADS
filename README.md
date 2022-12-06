@@ -1,6 +1,6 @@
 # Branch Banco de dados 1
 
-'''
+```
 create table colaboradores(
 id int,
 nome varchar(100),
@@ -74,4 +74,4 @@ colaboradores_id int,
 primary key(id),
 foreign key(colaboradores_id) references colaboradores(id)
 );
-'''
+```
