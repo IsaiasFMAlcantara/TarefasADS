@@ -1,6 +1,5 @@
 # Atividade final de banco de dados 1
 
-
 ```
 create table colaboradores(
 id int,
